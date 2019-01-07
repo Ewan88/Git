@@ -1,2 +1,3 @@
 this is file #2
 these are some changes
+these are some more changes to check if gitignore works
